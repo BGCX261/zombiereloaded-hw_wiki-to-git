@@ -1,4 +1,4 @@
-Main page for the Zombie:Reloaded project
+Test page for the Zombie:Reloaded project
 
 = Introduction =
 
