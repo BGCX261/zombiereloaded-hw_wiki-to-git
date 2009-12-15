@@ -4,6 +4,7 @@ Main page for the Zombie:Reloaded project
 
 TODO: Add your content here.
 
+= Code block test =
 {{{
 if (GetClientFlags("richard") && FLAG_SLEEPY)
 {
