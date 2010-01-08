@@ -11,6 +11,12 @@ At a random time after the round starts, one or more random humans are turned in
 
 For best results the server should have Counter-Strike: Source maps made for Zombie Mod but it works on any map compatible with Counter-Strike: Source.
 
+=Resources=
+
+  * [http://forums.alliedmods.net/forumdisplay.php?f=132 Discussion forum]
+
+Currently we have the main source repositories located on another server, so the repositories here might not be updated. In the release posts in the forum there are links to main repositories.
+
 =Credits=
 
 ==Concept==
