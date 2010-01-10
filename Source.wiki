@@ -1,6 +1,4 @@
 #labels Phase-Implementation
-#Notes about source code.
-
 =Source Code=
 
 The source code repositories on this site are not updated. We're not sure if we're going to use this site as our main repository server.
