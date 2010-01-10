@@ -7,9 +7,11 @@ The source code repositories on this site are not updated. We're not sure if we'
 
 Main host for repositories: http://helgeby.no-ip.org/zrdev/hg/
 
-Note that the main host is a private site and available bandwidth is limited. An ideal solution would be to clone the repositores from googlecode first, and then pull newest changes from the main host.
+*Note:* The main host is a private site and available bandwidth is limited. An ideal solution would be to clone the repositores from googlecode first, and then pull newest changes from the main host.
 
 ==zr-dev==
+
+*Repository:* http://code.google.com/p/zombiereloaded/source/list?repo=zr-dev
 
 Our main development branch. New features and experimental stuff is available here.
 
@@ -17,7 +19,9 @@ Note that builds of zr-dev may or may not work at all.
 
 ==zr-3-0-b2==
 
-Note: The name is inccorect because of technical limitations. Real name is: zr-3.0-b2
+*Note:* The name is inccorect because of technical limitations. Real name is: zr-3.0-b2
+
+*Repository:* http://code.google.com/p/zombiereloaded/source/list?repo=zr-3-0-b2
 
 This is our stable branch for the beta 2 release. It will be updated with mostly bug fixes, but could also get new small features.
 
