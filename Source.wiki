@@ -7,7 +7,11 @@ The source code repositories on this site are not updated. We're not sure if we'
 
 Main host for repositories: http://helgeby.no-ip.org/zrdev/hg/
 
-*Note:* The main host is a private site and available bandwidth is limited. An ideal solution would be to clone the repositores from googlecode first, and then pull newest changes from the main host.
+*Note:* The main host is a private site and available bandwidth is limited.
+
+How to obtain the latest changes with highest speed:
+  # Clone our repository from this site first.
+  # Then pull latest changes from the main host.
 
 ==zr-dev==
 
