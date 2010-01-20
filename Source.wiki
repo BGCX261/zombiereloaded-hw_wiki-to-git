@@ -1,7 +1,7 @@
 #labels Phase-Implementation
 =Source Code=
 
-The source code repositories on this site are not updated. We're not sure if we're going to use this site as our main repository server.
+The source code repositories on this site are not always up to date. We're not sure if we're going to use this site as our main repository server.
 
 ==Repositories==
 
@@ -9,9 +9,10 @@ Main host for repositories: http://helgeby.no-ip.org/zrdev/hg/
 
 *Note:* The main host is a private site and available bandwidth is limited.
 
-How to obtain the latest changes with highest speed:
-  # Clone our repository from this site first.
-  # Then pull latest changes from the main host.
+==How to obtain the latest changes with highest speed==
+Since our main host is slow, there's still a solution for fast download:
+  # Clone our repository from this site first (here at Google Code)
+  # Then pull latest changes from the main host (helgeby.no-ip-org)
 
 ==zr-dev==
 
