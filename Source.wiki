@@ -11,8 +11,8 @@ Main host for repositories: http://helgeby.no-ip.org/zrdev/hg/
 
 ==How to obtain the latest changes with highest speed==
 Since our main host is slow, there's still a solution for fast download:
-  # Clone our repository from this site first (here at Google Code)
-  # Then pull latest changes from the main host (helgeby.no-ip-org)
+  # Clone our repository from this site first (here at Google Code). Use the repository links below and switch to checkout view to get a full clone URL of the selected repository.
+  # Then pull latest changes from the main host (helgeby.no-ip-org).
 
 ==zr-dev==
 
