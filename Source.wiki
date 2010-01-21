@@ -1,7 +1,7 @@
 #labels Phase-Implementation
 =Source Code=
 
-The source code repositories on this site are not always up to date. We're not sure if we're going to use this site as our main repository server. However, full compileable source code snapshots is available in release packages (currently only in patches).
+The source code repositories on this site are not always up to date. We're not sure if we're going to use this site as our main repository server. However, full compilable source code snapshots is available in release packages (currently only in patches).
 
 ==Repositories==
 
