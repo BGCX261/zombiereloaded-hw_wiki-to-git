@@ -3,6 +3,8 @@
 
 The source code repositories on this site are not always up to date. We're not sure if we're going to use this site as our main repository server. However, full compilable source code snapshots is available in release packages (currently only in patches).
 
+We use Mercurial as the version control system and you need its client to download complete source repositories. Use Mercurial on Linux (command line tools), or TortoiseHg on Windows (both GUI and command line tools).
+
 ==Repositories==
 
 Main host for repositories: http://helgeby.no-ip.org/zrdev/hg/
