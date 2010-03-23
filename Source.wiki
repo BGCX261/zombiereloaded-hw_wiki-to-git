@@ -1,9 +1,9 @@
 #labels Phase-Implementation
 =Source Code=
 
-The source code repositories on this site are not always up to date. We're not sure if we're going to use this site as our main repository server. However, full compilable source code snapshots is available in release packages (currently only in patches).
+The source code repositories on this site are not always up to date. We're not sure if we're going to use this site as our main repository server. However, full compilable source code snapshots are available in the release packages (currently only in patches).
 
-We use Mercurial as the version control system and you need its client to download complete source repositories. Use Mercurial on Linux (command line tools), or TortoiseHg on Windows (both GUI and command line tools).
+We use Mercurial as the version control system and you need it to clone complete source code repositories. Use Mercurial on Linux (command line tools), or TortoiseHg on Windows (both GUI and command line tools).
 
 ==Repositories==
 
@@ -22,11 +22,11 @@ Since our main host is slow, there's still a solution for fast download:
 
 Our main development branch. New features and experimental stuff is available here.
 
-Note that builds of zr-dev may or may not work at all.
+Note that builds of zr-dev may or may not work at all. We also may do changes that suddenly break compatibility.
 
 ==zr-3-0-b2==
 
-*Note:* The name is inccorect because of technical limitations. Real name is: zr-3.0-b2
+*Note:* The name is incorrect because of technical limitations. Real name at our main server is: zr-3.0-b2
 
 *Repository:* http://code.google.com/p/zombiereloaded/source/list?repo=zr-3-0-b2
 
