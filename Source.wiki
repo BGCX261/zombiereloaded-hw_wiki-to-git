@@ -1,7 +1,7 @@
 #labels Phase-Implementation
 =Source Code=
 
-The source code repositories on this site are not always up to date. We're not sure if we're going to use this site as our main repository server. However, full compilable source code snapshots are available in the release packages (currently only in patches).
+We're not sure if we're going to use this site as our main repository server. However, full compilable source code snapshots are available in the release packages (currently only in patches).
 
 We use Mercurial as the version control system and you need it to clone complete source code repositories. Use Mercurial on Linux (command line tools), or TortoiseHg on Windows (both GUI and command line tools).
 
@@ -9,12 +9,7 @@ We use Mercurial as the version control system and you need it to clone complete
 
 Main host for repositories: http://helgeby.no-ip.org/zrdev/hg/
 
-*Note:* The main host is a private site and available bandwidth is limited.
-
-==How to obtain the latest changes with highest speed==
-Since our main host is slow, there's still a solution for fast download:
-  # Clone our repository from this site first (here at Google Code). Use the repository links below and switch to checkout view to get a full clone URL of the selected repository.
-  # Then pull latest changes from the main host (helgeby.no-ip-org).
+*Note:* The main host is a private site and available bandwidth is limited. *Please use our mirrors below:*
 
 ==zr-dev==
 
