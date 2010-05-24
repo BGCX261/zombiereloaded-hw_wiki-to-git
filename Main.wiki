@@ -1,7 +1,7 @@
 #labels Featured
 =Introduction=
 
-Zombie:Reloaded a open source alternative to [http://www.zombiemod.com/ Zombie Mod] with a lot of new features and improvements. It's open source, made for Counter-Strike: Source and runs on a powerful scripting platform called [http://www.sourcemod.net/ SourceMod].
+Zombie:Reloaded is an open source alternative to [http://www.zombiemod.com/ Zombie Mod] with a lot of new features and improvements. It's open source, made for Counter-Strike: Source and runs on a powerful scripting platform called [http://www.sourcemod.net/ SourceMod].
 
 =Game Objectives=
 
@@ -10,6 +10,12 @@ The objectives is to change the game into humans versus zombies. Humans try to s
 At a random time after the round starts, one or more random humans are turned into zombies. Zombies have certain advantages as running faster and more health points. Humans have huge amounts of ammo (or unlimited), and their bullets knock back zombies when hit. A lot more attributes can be adjusted for both zombies and humans in different classes to make it even more fun.
 
 For best results the server should have Counter-Strike: Source maps made for Zombie Mod but it works on any map compatible with Counter-Strike: Source.
+
+=Plugin features=
+
+Zombie:Reloaded has a lot of highly customizable features to make a unique gameplay on the server.
+
+See [zr3b2features Zombie:Reloaded 3.0 Beta 2 Features] for more details.
 
 =Resources=
 
