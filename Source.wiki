@@ -5,6 +5,8 @@ We're not sure if we're going to use this site as our main repository server. Ho
 
 We use Mercurial as the version control system and you need it to clone complete source code repositories. Use Mercurial on Linux (command line tools), or TortoiseHg on Windows (both GUI and command line tools).
 
+See [Compiling_Zombie_Reloaded Compiling Zombie:Reloaded] for information about compiling.
+
 ==Repositories==
 
 Main host for repositories: http://helgeby.no-ip.org/zrdev/hg/
