@@ -1,4 +1,4 @@
-#labels Phase-Implementation
+#labels Featured
 =Source Code=
 
 We're not sure if we're going to use this site as our main repository server. However, full compilable source code snapshots are available in the release packages (currently only in patches).
