@@ -11,17 +11,19 @@ Only authorized developers can push to our repositories.
 
 ==Repositories==
 
-Note that some repositories are mirrored here and some are not. The following repositores are mirrored repositories on this site (do NOT push changes directly to these):
-
-  * [http://code.google.com/p/zombiereloaded/source/checkout?repo=zr-dev zr-dev]
-  * [http://code.google.com/p/zombiereloaded/source/checkout?repo=zr-3-0-b2 zr-3.0-b2 (zr-3-0-b2)]
-
-To push to these you must push to the equivalent at http://helgeby.no-ip.org/zrdev/hg/
+Note that some repositories are mirrored here and some are not.
 
 The following repositories are hosted on this site (you can push to these):
 
   * [http://code.google.com/p/zombiereloaded/source/checkout?repo=zr-dev-base zr-dev-base]
   * [http://code.google.com/p/zombiereloaded/source/checkout?repo=wiki wiki]
+
+The following repositores are mirrored repositories on this site (do NOT push directly to these):
+
+  * [http://code.google.com/p/zombiereloaded/source/checkout?repo=zr-dev zr-dev]
+  * [http://code.google.com/p/zombiereloaded/source/checkout?repo=zr-3-0-b2 zr-3.0-b2 (zr-3-0-b2)]
+
+To push to these you must push to the equivalent at http://helgeby.no-ip.org/zrdev/hg/ through SSH.
 
 ==zr-dev-base==
 
