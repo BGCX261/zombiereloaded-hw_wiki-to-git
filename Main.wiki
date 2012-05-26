@@ -20,6 +20,8 @@ See [zr3b2features Zombie:Reloaded 3.0 Beta 2 Features] for more details.
 =Resources=
 
   * [http://forums.alliedmods.net/forumdisplay.php?f=132 Discussion forum]
+  * [Source Zombie:Reloaded source code]
+  * [Compiling_Zombie_Reloaded How to compile Zombie:Reloaded]
 
 Currently we have the main source repositories located on another server, so the repositories here might not be updated. In the release posts in the forum there are links to main repositories.
 
