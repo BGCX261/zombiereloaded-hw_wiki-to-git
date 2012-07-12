@@ -13,7 +13,7 @@ This guide doesn't cover how to install the above requirements. See their docume
 
 Though, SDK Hooks is easily installed by just extracting the contents into the "cstrike" folder on the dedicated server and all files should go in the correct folders.
 
-*Note:* Verify that both Metamod:Source and SourceMod is running before continuing by typing these commands in the server console: "meta version" and "sm version". If both give version information it's working, if not go through installation instructions again and verify that everything is in the correct places.
+*Note:* Verify that both Metamod:Source and SourceMod is running before continuing by typing these commands in the server console: "meta version" and "sm version". If both give version information it's working, if not go through installation instructions again and verify that everything is in the correct place.
 
 == Install Zombie:Reloaded ==
 
