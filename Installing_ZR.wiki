@@ -29,3 +29,9 @@ Zombie:Reloaded is installed in two phases. It has the main release and a patch 
   # Start the dedicated server and verify that Zombie:Reloaded is running by typing this command in the server console: "zr_version".
 
 If Zombie:Reloaded isn't running check the SourceMod error logs at cstrike/addons/sourcemod/logs/. Look for messages from zombiereloaded.smx.
+
+== Manual ==
+
+The manual describes configuration details of every feature in Zombie:Reloaded. It's recommended to look through it to get to know details about the features and how to configure them.
+
+The manual is located in zrdocs/zr_manual.htm in the latest patch. Make sure you have a look at it before reporting problems.
