@@ -2,7 +2,7 @@
 
 = Installing Zombie:Reloaded =
 
-== 1. Install Plugin Requirements ==
+== Install Plugin Requirements ==
 
 Before adding files from Zombie:Reloaded, make sure you have the following requirements installed:
   * [http://sourcemm.net/ Metamod:Source] 1.8.6+
@@ -15,7 +15,7 @@ Though, SDK Hooks is easily installed by just extracting the contents into the "
 
 *Note:* Verify that both Metamod:Source and SourceMod is running before continuing by typing these commands in the server console: "meta version" and "sm version". If both give version information it's working, if not go through installation instructions again and verify that everything is in the correct places.
 
-== 2. Install Zombie:Reloaded ==
+== Install Zombie:Reloaded ==
 
 Zombie:Reloaded is installed in two phases. It has the main release and a patch with updates and fixes. The original release no longer work out-of-box, so the patch is required.
 
