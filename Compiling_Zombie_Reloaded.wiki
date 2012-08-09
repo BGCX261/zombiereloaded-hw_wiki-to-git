@@ -40,7 +40,7 @@ To compile using our scripts you need the following:
 
 *Windows:* Run the compile.bat script.
 
-*Linux:* Use the Makefile with the command "make". To recompile remember to run "make clean" first, the old files aren't overwritten.
+*Linux:* Use the Makefile with the command "make". When recompiling remember to run "make clean" first, the old files aren't overwritten.
 
 When compiling is done, the plugin binary is located in the build folder.
 
