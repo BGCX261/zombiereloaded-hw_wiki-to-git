@@ -23,7 +23,7 @@ Zombie:Reloaded is installed in two phases. It has the main release and a patch 
   # The folder structure in the release is prepared for the dedicated server. Extract the contents of the main release into the "cstrike" folder on the dedicated server.
   # Due to the release being old, delete the following files on the server. These are obsolete and no longer used:
     * cstrike/addons/sourcemod/extensions/zrtools.ext.dll
-    * cstrike/addons/sourcemod/extensions/zrtools.ext.dll
+    * cstrike/addons/sourcemod/extensions/zrtools.ext.so
     * cstrike/addons/sourcemod/gamedata/plugin.zombiereloaded.txt
   # Get the latest patch from the [http://code.google.com/p/zombiereloaded/downloads/list downloads page] and extract its content into the "cstrike" directory on the dedicated server. Allow it to overwrite extisting files so the old release will be updated.
   # Start the dedicated server and verify that Zombie:Reloaded is running by typing this command in the server console: "zr_version".
