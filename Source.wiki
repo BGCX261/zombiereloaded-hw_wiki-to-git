@@ -15,7 +15,8 @@ To submit a patch:
 
 ==Repositories==
 
-  * [http://code.google.com/p/zombiereloaded/source/checkout?repo=zr-3-0-b2 zr-3.0-b2 (zr-3-0-b2)] - Current stable branch (3.0 beta 2)
+  * [http://code.google.com/p/zombiereloaded/source/checkout?repo=zr-3-1 zr-3.1] Current stable branch (3.1)
+  * [http://code.google.com/p/zombiereloaded/source/checkout?repo=zr-3-0-b2 zr-3.0-b2 (zr-3-0-b2)] - Old branch (3.0 beta 2)
   * [http://code.google.com/p/zombiereloaded/source/checkout?repo=zr-dev-base zr-dev-base] - Development branch
   * [http://code.google.com/p/zombiereloaded/source/checkout?repo=zr-dev zr-dev] - (Obsolete!) Old development branch
   * [http://code.google.com/p/zombiereloaded/source/checkout?repo=wiki wiki] - Wiki pages on this site
